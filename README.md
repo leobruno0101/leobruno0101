@@ -6,6 +6,6 @@ Estudo programação e faço curso de desenvolvimento de sistema. Estou na terce
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leobrunofqsoares@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([leobrunofqsoares@hotmail.com](https://criarmeulink.com.br/u/1715781351))
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bruno-fagundes-queiroz-soares-157282302/)
